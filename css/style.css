@@ -579,4 +579,7 @@ ol a:hover:after {
         margin-bottom: 15px;
         float: none;
     }
+    .contact-col div h5 {
+    	font-size: 12px;
+    }
 }
