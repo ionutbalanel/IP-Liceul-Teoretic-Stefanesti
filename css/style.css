@@ -535,7 +535,7 @@ ol a:hover:after {
     }
     .sub-header h1 {
         font-size: 24px;
-		margin-top: 100px;
+        margin-top: 100px;
     }
     .row {
         flex-direction: column;
@@ -580,6 +580,6 @@ ol a:hover:after {
         float: none;
     }
     .contact-col div h5 {
-    	font-size: 12px;
+        font-size: 12px;
     }
 }
